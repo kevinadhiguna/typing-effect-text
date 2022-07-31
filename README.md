@@ -13,4 +13,10 @@ Actually, you will see the text with a typing effect. Below is an example : <br>
 
 <br />
 
+## Reference
+
+- A YouTube tutorial
+
+<br />
+
 [![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/typing-effect-text)](https://github.com/kevinadhiguna)
