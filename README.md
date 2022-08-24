@@ -19,4 +19,4 @@ Actually, you will see the text with a typing effect. Below is an example : <br>
 
 <br />
 
-[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/typing-effect-text)](https://github.com/kevinadhiguna)
+![Hello !](https://api.visitorbadge.io/api/VisitorHit?user=kevinadhiguna&repo=typing-effect-text&label=thanks%20for%20dropping%20in%20!&labelColor=%23000000&countColor=%23FFFFFF)
